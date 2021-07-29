@@ -126,3 +126,15 @@ p{
 .links:hover{
     background-color:cornflowerblue;
 }
+
+html{
+    scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none;
+}
+
+.article:hover{
+    color:darkorchid;
+}
